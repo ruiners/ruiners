@@ -68,13 +68,13 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
   <!-- spotify and more --> 
   <div align="center"> 
 
-  <a href="https://mail.google.com/mail/?view=cm&to=ortiz.gustavo@gmail.com" target="_blank">
+  <a href="(https://mail.google.com/mail/?view=cm&to=ortiz.gustavo@gmail.com)" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in//" target="_blank">
+  <a href="(https://www.linkedin.com/in//)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
-  <a href="https://open.spotify.com/playlist/3A6d9mNanQ1o9FnjfVvPXl?si=MgjO7Rf3QLKVv5Omr5lXjQ&pi=_cyK3rgQSSicL" target="_blank">
+  <a href="(https://open.spotify.com/playlist/3A6d9mNanQ1o9FnjfVvPXl?si=MgjO7Rf3QLKVv5Omr5lXjQ&pi=_cyK3rgQSSicL)" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
   </a>
 
@@ -98,6 +98,7 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
 </div>
 
 <br/>
+
 
 
 
