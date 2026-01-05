@@ -2,7 +2,7 @@
 <!--  views/stars/followers -->
 </br>
 <div align="center">
-<a href="(https://github.com/ruiners)">
+<a href="https://github.com/ruiners">
   <img width="150px" 
        src="https://komarev.com/ghpvc/?username=ruiners&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="Visualizações no perfil"
@@ -96,4 +96,5 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
 </div>
 
 <br/>
+
 
