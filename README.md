@@ -66,10 +66,10 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
   <!-- spotify and more --> 
   <div align="center"> 
 
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=ortiz.gustavo@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
+  <a href="https://www.linkedin.com/in//" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
   <a href="https://open.spotify.com/playlist/3A6d9mNanQ1o9FnjfVvPXl?si=MgjO7Rf3QLKVv5Omr5lXjQ&pi=_cyK3rgQSSicL" target="_blank">
@@ -81,53 +81,19 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
 </div>
 </br>
 
-
-<!-- github status-->
-<h3 align="center">
-<img src="./assets/icons/github-white.svg" width=18>
- Github Status 
-<img src="./assets/icons/github-black.svg" width=22>
-</h3>
-<br>
-
-
-<!-- Status -->
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
-</div>
-
-
-<!-- Academic Training-->
-<h3 align="center">
-<img src="./assets/icons/graduation-white.svg" width=25>
- Academic Training
-<img src="./assets/icons/graduation-black.svg" width=25>
-</h3>
-<br>
-
-<!-- Academic Badge-->
-<div align="center">
-
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
-<div>
-
 <!-- My Tech Stack -->
 
 <h3 align="center">
- <img src="./assets/icons/stack-white.svg" width=17>
  My Tech Stack
- <img src="./assets/icons/stack-black.svg" width=20>
 </h3>
 
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,notion,md" /><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=chatgpt,vite,git" /><br>
+    <img src="https://skillicons.dev/icons?i=github,figma,notion" /><br>
 </div>
 
 <br/>
@@ -186,6 +152,7 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
   />
 
 </p>
+
 
 
 
