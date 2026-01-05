@@ -1,13 +1,4 @@
-<!--
-    Dear user using my README as a base
-    to create your own, I’m happy to authorize its use 
-    and I’m glad you liked it! I just kindly ask for one thing:
 
-    Please, leave a star on my README it would truly make my day :)
-    GitHub: https://github.com/Glauedson
--->
-
-<!-- Banner  -->
 <a href="https://github.com/Glauedson">
   <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
@@ -46,13 +37,14 @@
 
 <div align="justify">
 
-I’m a student of `Systems Analysis and Development` at the `Federal Institute of Science and Technology of Ceará` **(IFCE)**.  
-My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.  
-At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
+Hi! I’m a **`Front-End Developer`** passionate about building clean, responsive, and user-focused web interfaces.
 
-When I turned 18 and entered college, I fully dove into programming.  
-Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
-Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
+I started my journey in technology at the age of **`12`**, and since then I’ve been studying consistently through a **`technical course`** and intensive **`self-study at home`**. My work is fully focused on **`Front-End Web Development`**, where I transform ideas into functional and visually engaging websites.
+
+Although my main focus is **`Front-End`**, my long-term goal is to become a **`Fullstack Developer`** and explore the complete development ecosystem.
+
+Beyond coding, I have a strong creative side: I **`play the piano`** and have solid knowledge of **`photography`**, skills that directly influence my sense of **`design, composition, and UI`**.
+
 
 </div>
 </br>
@@ -198,4 +190,5 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
     src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
     width="100%" 
   />
+
 </p>
