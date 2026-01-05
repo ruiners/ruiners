@@ -10,7 +10,7 @@
   </a>
 
   <a href="(https://api.github-star-counter.workers.dev/user/ruiners)">
-    <img width="150px"
+    <img width="120px"
          alt="Stars"
          title="Total stars"
          src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ruiners"/>
@@ -98,6 +98,7 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
 </div>
 
 <br/>
+
 
 
 
