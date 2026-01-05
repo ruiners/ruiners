@@ -3,13 +3,13 @@
 </br>
 <div align="center">
 <a href="(https://github.com/ruiners)">
-  <img width="180px" 
+  <img width="150px" 
        src="https://komarev.com/ghpvc/?username=ruiners&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="Visualizações no perfil"
        title="Total de visualizações"/> 
 </a>
 <a href="https://api.github-star-counter.workers.dev/user/ruiners">
-  <img width="115px" 
+  <img width="150px" 
        alt="seguidores" 
        title="Total de estrelas" 
        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ruiners" /> 
@@ -96,63 +96,4 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
 </div>
 
 <br/>
-
-
-
-
-<!-- My Best Repositories -->
-<div align="center">
-
-  <h3>
-   <img src="./assets/icons/bookmark-white.svg" width="12px">
-   My Best Repositories
-   <img src="./assets/icons/bookmark-black.svg" width="14px">
-  </h3></br>
-
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/Lembra-Plus-task-app">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Lembra-Plus-task-app&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-    <a href="https://github.com/Glauedson/github-readme-educational-badge">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=github-readme-educational-badge&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-</div>
-
-
-<div align="center">
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/MicroControladores">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=microcontroladores&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-    <a href="https://github.com/Glauedson/SPACED">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=SPACED&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-</div>
-
-
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/WhatIsTheLanguage">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=WhatIsTheLanguage&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-    <a href="https://github.com/Glauedson/Tapiocaria">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Tapiocaria&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=fffff" />
-    </a>
-</div>
-</br>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
-    width="100%" 
-  />
-
-</p>
-
-
-
-
 
