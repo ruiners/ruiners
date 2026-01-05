@@ -58,16 +58,15 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
 
 <!-- A Little More About Me -->
  <h3 align="center">
-  <img src="./assets/icons/user-white.svg" width=15>
-  A Little More About Me 
-  <img src="./assets/icons/user-black.svg" width=15>
+  *A Little More About Me*
  </h3>
 
- ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
- ⬜ Currently working on projects with React.  </br>
- ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
- ⬜ Interested in any large-scale project that makes me think.</br>
- ⬛ Minimalism enthusiast.
+ • Front-End focused, currently building projects with React. </br>  
+• Learning continuously through practice and challenges. </br>  
+• Open to collaboration and knowledge sharing. </br>  
+• Interested in scalable and well-structured projects. </br>  
+• Minimalism as a principle in code and design. </br>
+
  ㅤ
   <!-- spotify and more --> 
   <div align="center"> 
@@ -192,3 +191,4 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
   />
 
 </p>
+
