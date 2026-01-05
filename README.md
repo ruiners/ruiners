@@ -12,13 +12,13 @@
   <img width="115px" 
        alt="seguidores" 
        title="Total de estrelas" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ruiners" /> 
 </a>
-<a href="https://github.com/Glauedson?tab=followers">
+<a href="https://github.com/ruiners?tab=followers">
   <img width="150px" 
        alt="seguidores" 
        title="seguidores no GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+       src="https://custom-icon-badges.herokuapp.com/github/followers/ruiners?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 </a>
 </div>
 
@@ -186,5 +186,6 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
   />
 
 </p>
+
 
 
