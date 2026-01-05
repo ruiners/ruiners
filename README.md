@@ -2,21 +2,21 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ruiners">
+  <a href="(https://github.com/ruiners)">
     <img width="150px"
          src="https://komarev.com/ghpvc/?username=ruiners&label=Profile%20views&color=000000&style=for-the-badge"
          alt="Profile views"
          title="Total profile views"/>
   </a>
 
-  <a href="https://api.github-star-counter.workers.dev/user/ruiners">
+  <a href="(https://api.github-star-counter.workers.dev/user/ruiners)">
     <img width="150px"
          alt="Stars"
          title="Total stars"
          src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ruiners"/>
   </a>
 
-  <a href="https://github.com/ruiners?tab=followers">
+  <a href="(https://github.com/ruiners?tab=followers)">
     <img width="150px"
          alt="Followers"
          title="GitHub followers"
@@ -98,6 +98,7 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
 </div>
 
 <br/>
+
 
 
 
