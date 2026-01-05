@@ -91,8 +91,7 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
-    <img src="https://skillicons.dev/icons?i=react,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=chatgpt,vite,git" /><br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,vite" /><br>
     <img src="https://skillicons.dev/icons?i=github,figma,notion" /><br>
 </div>
 
@@ -152,6 +151,7 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
   />
 
 </p>
+
 
 
 
