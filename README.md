@@ -1,19 +1,14 @@
 
-<a href="https://github.com/Glauedson">
-  <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
-</a>
-
-
 <!--  views/stars/followers -->
 </br>
 <div align="center">
-<a href="https://github.com/Glauedson">
+<a href="(https://github.com/ruiners)">
   <img width="180px" 
-       src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=000000&style=for-the-badge" 
+       src="https://komarev.com/ghpvc/?username=ruiners&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="Visualizações no perfil"
        title="Total de visualizações"/> 
 </a>
-<a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+<a href="https://api.github-star-counter.workers.dev/user/ruiners">
   <img width="115px" 
        alt="seguidores" 
        title="Total de estrelas" 
@@ -191,4 +186,5 @@ Beyond coding, I have a strong creative side: I **`play the piano`** and have so
   />
 
 </p>
+
 
